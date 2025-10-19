@@ -18,7 +18,7 @@ EduScribeAI is an AI-powered educational assistant that helps teachers and stude
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/EduScribeAI.git
+   git clone https://github.com/Likith26-MO/EduScribeAI.git
    cd EduScribeAI
 Install dependencies:
 
